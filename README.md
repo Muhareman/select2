@@ -1,23 +1,4 @@
-Select2
-=======
-![Build Status][github-actions-image]
-[![Financial Contributors on Open Collective](https://opencollective.com/select2/all/badge.svg?label=financial+contributors)](https://opencollective.com/select2)
-[![jsdelivr](https://data.jsdelivr.com/v1/package/npm/select2/badge)][jsdelivr]
-[![cdnjs](https://img.shields.io/cdnjs/v/select2.svg)][cdnjs]
 
-Select2 is a jQuery-based replacement for select boxes. It supports searching,
-remote data sets, and pagination of results.
-
-To get started, check out examples and documentation at
-https://select2.org/
-
-Use cases
----------
-* Enhancing native selects with search.
-* Enhancing native selects with a better multi-select interface.
-* Loading data from JavaScript: easily load items via AJAX and have them
-  searchable.
-* Nesting optgroups: native selects only support one level of nesting. Select2
   does not have this restriction.
 * Tagging: ability to add new items on the fly.
 * Working with large, remote datasets: ability to partially load a dataset based
@@ -26,7 +7,7 @@ Use cases
   are scrolled to the end.
 * Templating: support for custom rendering of results and selections.
 
-Browser compatibility
+
 ---------------------
 * IE 8+
 * Chrome 8+
